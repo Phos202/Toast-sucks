@@ -7,8 +7,8 @@ int b;
 double c;
 double d;
 
-//contructors
-    public int Sinto()
+//constructors
+    public int Minto()
     {
         
         return 0;

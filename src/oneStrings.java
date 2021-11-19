@@ -10,6 +10,7 @@ public class oneStrings {
 
 public String hPrinting()// how to print and type them
 {
+  return null;
   
 
 }

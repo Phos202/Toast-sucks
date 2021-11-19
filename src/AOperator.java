@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Into {
+public class AOperator {
     public static void main(String[] args) throws Exception {
       Scanner scan = new Scanner(System.in);
 
@@ -13,7 +13,7 @@ public class Into {
     
     
    
-    System.out.println("Welcome to the start of your Java programing.\n\n Please Selcet a number to being a lesson");
+    System.out.println("Welcome to the start of your Java programing.\n\n Please Select a number to being a lesson");
     
     
     //Strings lesson
