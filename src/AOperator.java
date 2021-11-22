@@ -41,9 +41,19 @@ int Mathpick = 0;// part picker
     //  }//Do NOT DELETE THIS
     // else if(lesson == 2)//math
     {
-//System.out.println("Welcome or Welcome back to lesson of basics of math please select from math,""\n introint == 1, int lesson == 2,double intro == 3, double lesson ==4 *if made double and ints with scanners ==5*");//Come here to fix
+//System.out.println("Welcome or Welcome back to lesson of basics of math please select from math,""\n introint == 1double intro == 24 *if made double and ints with scanners ==3*");//Come here to fix
 //Mathpick = scan.nextInt();
-    }
+//         if(Mathpick == 1)
+//         {
+//             introint();
+//             ints();
+//         }
+//         else if(Mathpick == 2)//the introduction to the lesson and the user doing the lesson
+//         {
+//         introdoubles();
+//             doubles();
+//         }
+  //  }
 
     }
 }
