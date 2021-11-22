@@ -8,13 +8,7 @@ double c;
 double d;
 
 //constructors
-    public String Minto()
-    {
-        
-        return null;
-    
-    }
-
+ 
     public String introint()//intro lesson to ints
     {
 return null;

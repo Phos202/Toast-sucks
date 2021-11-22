@@ -3,8 +3,9 @@ public class AOperator {
     public static void main(String[] args) throws Exception {
       Scanner scan = new Scanner(System.in);
 
-int Stringpick = 0;
+int Stringpick = 0;// part picker
 
+int Mathpick = 0;// part picker
 
       int lesson = 0;//LESSON PICKER
       int mpart = 0;//section parts for Math
@@ -40,7 +41,8 @@ int Stringpick = 0;
     //  }//Do NOT DELETE THIS
     // else if(lesson == 2)//math
     {
-
+System.out.println("Welcome or Welcome back to lesson of basics of math please select from math,""\n introint == 1, int lesson == 2,double intro == 3, double lesson ==4 *if made double and ints with scanners ==5*");//Come here to fix
+Mathpick = scan.nextInt();
     }
 
     }
