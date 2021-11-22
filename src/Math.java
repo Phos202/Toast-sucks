@@ -14,9 +14,9 @@ double d;
 return null;
     }
 
-public int ints()//teach ints
+public void ints()//teach ints
 {
-  return 0;
+ 
 }
 
 
@@ -25,9 +25,9 @@ public String introdoubles()//intro to doubles
   return null;
 }
 
-public double doubles()//teach doubles
+public void doubles()//teach doubles
 {
-  return 0.0;
+  
 }
 
 }
