@@ -1,11 +1,15 @@
 import java.util.Scanner;
 public class oneStrings {
+//vars
+String intro;
+
 
       Scanner scan = new Scanner(System.in);
             
-        public static void whats()
+        public String oneStrings(String a)
         {    // intro to strings
-          System.out.println("Welcome to Lesson Strings in this lesson you will get to learn the basics of using strings");
+        intro = a;
+          System.out.println(intro);
         }//Show how to print 
 
 public String hPrinting()// how to print and type them
