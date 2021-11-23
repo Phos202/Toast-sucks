@@ -4,16 +4,22 @@ public class AOperator {
       Scanner scan = new Scanner(System.in);
 
 
+      
 
-      String lesson = "";//LESSON PICKER
 
-    System.out.println("Welcome to the start of your Java programing. Please if you are a beginner please select Math or Strings if not pick For");
-    lesson = scan.nextLine();
+
+
+
+      
+//make intro for for loop lesson
     
+    //work on for loop first cause its working
+    System.out.println("Select your ints num");
+int Fori = scan.nextInt();
+// For Loops ints
 
-System.out.println(lesson);
 
-    
+    Forloop what = new Forloop(Fori);
 
 
 }
