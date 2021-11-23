@@ -12,7 +12,10 @@ String intro;
           System.out.println(intro);
         }//Show how to print 
 
-public String hPrinting()// how to print and type them
+      
+      
+      //outside of this class in main or as i called it aoperator have the user pick there stuff for varible in string then get stuff in here
+public String oneStrings()// how to print and type them
 {
   return null;
   
@@ -22,3 +25,5 @@ public String hPrinting()// how to print and type them
 
 
 }
+
+
