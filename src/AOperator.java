@@ -10,13 +10,12 @@ public class AOperator {
 
 
 
-      
+
 //make intro for for loop lesson
     
-    //work on for loop first cause its working
-    System.out.println("Select your ints num");
+    System.out.println("Select your ints num");//user work
 int Fori = scan.nextInt();
-// For Loops ints
+
 
 
     Forloop what = new Forloop(Fori);
