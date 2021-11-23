@@ -3,6 +3,9 @@ public class AOperator {
     public static void main(String[] args) throws Exception {
       Scanner scan = new Scanner(System.in);
 
+String huh = "Welcome to Lesson Strings in this lesson you will get to learn the basics of using strings";
+oneStrings introS = new oneStrings(huh);
+//Strings
 
       
 
