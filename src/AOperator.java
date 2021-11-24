@@ -3,7 +3,9 @@ public class AOperator {
     public static void main(String[] args) throws Exception {
       Scanner scan = new Scanner(System.in);
 
-String huh = "Welcome to Lesson Strings in this lesson you will get to learn the basics of using strings";
+System.out.println("Welcome to Lesson Strings in this lesson you will get to learn the basics of using strings");
+        System.out.println("\nThe basic examples of Strings in java are the print types, one is System.out.print(); and the other is \n System.out.println();")
+            System.out.println("\n In order to print words in the print either have \"\" or have an String *ANYNAME* = \"*Can equal any string and any words put in the quotes*\"");
 oneStrings introS = new oneStrings(huh);
 //Strings
 
