@@ -1,10 +1,10 @@
 import java.util.Scanner;
 public class Math {
 //properties
-private int a;
+private int UserI;
 private int b;
 
-private double c;
+private double UserD;    //doubles here
 private double d;
 
 //constructors
