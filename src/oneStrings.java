@@ -1,13 +1,14 @@
 import java.util.Scanner;
 public class oneStrings {
 //vars
-String intro;
-
+private String one;
+private String two;
+private String three;      
 
       Scanner scan = new Scanner(System.in);
             
         public String oneStrings(String a)
-        {    // intro to strings
+        {    
     
         }//Show how to print 
 
