@@ -8,8 +8,7 @@ String intro;
             
         public String oneStrings(String a)
         {    // intro to strings
-        intro = a;
-          System.out.println(intro);
+    
         }//Show how to print 
 
       
