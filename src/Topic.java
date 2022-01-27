@@ -4,25 +4,23 @@ import java.util.Scanner;
 
 public class Topic
 {
-      private int selc;
-  
-          public void Topic()
-          {
-           
-            System.out.println("\nSelect a lesson/note(1-?)");
-          }
-  
-    public String Tnotes(String[] tname, String[] notes)
-    {
       
-    
-    
+private int selc;
+Scanner scan = new Scanner(System.in);
+  
+
+
+    public void tNotes(String[] tname, String[] notes)
+    { 
+      System.out.println("\nSelect a lesson/note(1-5)");
+      selc = scan.nextInt(); 
+
     }
  
-          public String toString()
-          {
-          return "This is " + tname[selc] +notes[selc];
-          }
+      //     public String toString()
+      //     {
+      //     return "This is " + tname[selc] +notes[selc];
+      //     }
   
   
   
