@@ -7,10 +7,7 @@ System.out.println("Welcome to your easy java learning course,\nHere You Will be
     System.out.println("To pick lesson intsanddoubles please pick 1 Lesson;l Strings pick 2");
 int user10 = scan.nextInt();
             
-        if(user10 = 1)
-        {
-         intsanddoubles();
-        }
+      
 
 
             
