@@ -2,22 +2,17 @@ import java.util.Scanner;
 public class AOperator {
     public static void main(String[] args) throws Exception {
       Scanner scan = new Scanner(System.in);
+Topic math = new Topic("ints and doubles","");
 
 
-System.out.println("Welcome to your easy java learning course,\nHere You Will begin with learning the basics of math !WHEN YOU WANT TO MOVE ON TO THE NEXT LESSON YOU WILL BE PROMTED WHEN!\nIf you want to practice go to Replit.com");
+System.out.println(math);
 
+
+// System.out.println("Welcome to your easy java learning course.\n Here You Will begin with learning the basics of math\n If you want to practice go to Replit.com");
+
+  
    
 
-            
-      
-
-
-            
-
-
-
-
-   
 
 /* 
 The number 1 is to refer to notes on how ints and doubles work
