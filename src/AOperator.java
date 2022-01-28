@@ -2,6 +2,8 @@ import java.util.Scanner;
 public class AOperator {
     public static void main(String[] args) throws Exception {
       Scanner scan = new Scanner(System.in);
+
+
 System.out.println("Welcome to your easy java learning course,\nHere You Will begin with learning the basics of math !WHEN YOU WANT TO MOVE ON TO THE NEXT LESSON YOU WILL BE PROMTED WHEN!\nIf you want to practice go to Replit.com");
 
    
